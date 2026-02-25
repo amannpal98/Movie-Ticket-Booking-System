@@ -1,12 +1,13 @@
-# 🎬 Online Movie Ticket Management System
+## Overview
+
+Welcome to the **Online Movie Ticket Management System**! ...
 
 ---
 
-![3D Cinema Banner](https://images.unsplash.com/photo-1517602302552-471fe67acf66?auto=format&fit=crop&w=800&q=80)
+## 🌐 Live Demo
 
-## Overview
-
-Welcome to the **Online Movie Ticket Management System**! This project is a full-stack web application designed to streamline the process of booking movie tickets online. It features robust admin and user panels, secure payment integrations, and a modern, responsive UI.
+🚀 Deployed Application:  
+👉 https://movie-ticket-booking-system-lovat.vercel.app/
 
 ---
 
@@ -23,7 +24,6 @@ Welcome to the **Online Movie Ticket Management System**! This project is a full
 
 **Payment Gateways:**
 - Razorpay
-- SSLCommerz
 
 ---
 
@@ -66,12 +66,6 @@ Online-Movie-Ticket-Management-System/
 
 ---
 
-## 🖼️ 3D UI Preview
-
-![3D Movie Seats](https://cdn.dribbble.com/users/1162077/screenshots/3848914/movie_seats.png)
-
----
-
 ## ⚡ Getting Started
 
 ### Backend
@@ -101,9 +95,3 @@ For any queries or support, please contact:
 ## ⭐️ License
 
 This project is licensed under the MIT License.
-
----
-
-> Designed with passion for cinema and technology. Enjoy the 3D experience!
-
-![3D Glasses](https://cdn.pixabay.com/photo/2016/03/31/19/56/glasses-1294362_1280.png)
