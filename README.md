@@ -4,10 +4,7 @@ Welcome to the **Online Movie Ticket Management System**! ...
 
 ---
 
-## 🌐 Live Demo
 
-🚀 Deployed Application:  
-👉 https://movie-ticket-booking-system-lovat.vercel.app/
 
 ---
 
